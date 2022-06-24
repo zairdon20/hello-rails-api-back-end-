@@ -24,9 +24,9 @@ $ rails s
 
 👤 **Omar Salem**
 
-- GitHub: [Omar Salem](https://github.com/omarsalem7)
-- Twitter: [Omar Salem](https://twitter.com/Omar80491499)
-- LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
+- GitHub: [josphat nkonde](https://github.com/zairdon20)
+- Twitter: [josphatnkonde1](https://twitter.com/zairdon)
+- LinkedIn: [josphat nkonde](https://www.linkedin.com/in/josphat-nkonde/)
 
 
 ## 🤝 Contributing
