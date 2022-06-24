@@ -22,7 +22,7 @@ $ rails s
 
 ## Authors
 
-👤 **Omar Salem**
+👤 **Josphat Nkonde*
 
 - GitHub: [josphat nkonde](https://github.com/zairdon20)
 - Twitter: [josphatnkonde1](https://twitter.com/zairdon)
